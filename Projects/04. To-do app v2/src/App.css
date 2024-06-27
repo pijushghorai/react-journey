@@ -1,0 +1,27 @@
+h1 {
+    font-weight: 700;
+    font-size: 2rem;
+    padding: 15px 0;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #808080;
+}
+
+p {
+    text-align: left;
+    font-weight: 500;
+}
+
+button {
+    width: 100%;
+}
+
+.row {
+    margin: 8px 0;
+}
+
